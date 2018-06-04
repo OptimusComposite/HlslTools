@@ -10,4 +10,9 @@ namespace ShaderTools.Editor.VisualStudio
     internal sealed class SetupPackage : Package
     {
     }
+
+
+    //严重性	代码	说明	项目	文件	行	禁止显示状态
+    //错误 CreatePkgDef : error : ProvideBindingRedirectionAttribute: Invalid value specified for NewVersion.ShaderTools.Editor.VisualStudio
+
 }
